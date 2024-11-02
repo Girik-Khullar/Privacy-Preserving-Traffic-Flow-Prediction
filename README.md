@@ -60,6 +60,10 @@ The project simulates a federated setup on a single machine by dividing the data
 | GRU   | 7.21 | 96.67 |
 | FedGRU| 7.27 | 97.74 |
 
+### Loss Curves
+![Train Losses](train_loss_curve.png)
+![Test Losses](test_loss_curve.png)
+
 ## Future Work
 
 Potential enhancements include implementing ensemble clustering-based FedGRU for improved accuracy and experimenting with graph convolutional networks.
