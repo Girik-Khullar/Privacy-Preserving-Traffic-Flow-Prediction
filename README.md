@@ -12,7 +12,6 @@ This project implements a privacy-preserving traffic flow prediction model using
 - **Federated Learning with GRU**: Uses FedGRU to enable decentralized learning across client datasets.
 - **Privacy Preservation**: Data remains on local devices, with only model updates shared.
 - **Real-World Application**: Tested on the Caltrans PeMS dataset to simulate traffic flow prediction in urban areas.
-- **Joint Announcement Protocol**: Randomly selects participating clients in each iteration, enhancing efficiency.
 
 ## Technology Stack
 
