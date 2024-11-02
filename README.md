@@ -4,6 +4,9 @@
 
 This project implements a privacy-preserving traffic flow prediction model using the **FedGRU algorithm**. The approach combines Federated Learning (FL) with Gated Recurrent Units (GRU) to enable collaborative training on traffic flow data without sharing sensitive information. This setup is intended to predict urban traffic flow accurately while ensuring data privacy.
 
+### Predictions
+![Predictions of FedGRU Model]()
+
 ## Features
 
 - **Federated Learning with GRU**: Uses FedGRU to enable decentralized learning across client datasets.
